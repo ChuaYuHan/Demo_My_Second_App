@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="message">Welcome to Android!</string>
+    <string name="B2">Sign up now!</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+</resources>
